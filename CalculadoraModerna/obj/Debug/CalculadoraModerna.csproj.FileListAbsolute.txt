@@ -1,0 +1,7 @@
+C:\Users\ReneAndroid.apk\source\repos\CalculadoraModerna\CalculadoraModerna\obj\Debug\CalculadoraModerna.csproj.AssemblyReference.cache
+C:\Users\ReneAndroid.apk\source\repos\CalculadoraModerna\CalculadoraModerna\obj\Debug\CalculadoraModerna.csproj.CoreCompileInputs.cache
+C:\Users\ReneAndroid.apk\source\repos\CalculadoraModerna\CalculadoraModerna\bin\Debug\CalculadoraModerna.exe.config
+C:\Users\ReneAndroid.apk\source\repos\CalculadoraModerna\CalculadoraModerna\bin\Debug\CalculadoraModerna.exe
+C:\Users\ReneAndroid.apk\source\repos\CalculadoraModerna\CalculadoraModerna\bin\Debug\CalculadoraModerna.pdb
+C:\Users\ReneAndroid.apk\source\repos\CalculadoraModerna\CalculadoraModerna\obj\Debug\CalculadoraModerna.exe
+C:\Users\ReneAndroid.apk\source\repos\CalculadoraModerna\CalculadoraModerna\obj\Debug\CalculadoraModerna.pdb
